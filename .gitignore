@@ -1,0 +1,7 @@
+#invironment
+__pycache__
+venv
+
+#important data
+.env
+*.txt
