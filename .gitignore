@@ -1,5 +1,6 @@
 #invironment
 __pycache__
+.venv
 venv
 
 #important data
