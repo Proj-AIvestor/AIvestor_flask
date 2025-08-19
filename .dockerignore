@@ -1,0 +1,26 @@
+# AIvestor_flask/.dockerignore
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist
+build
+.env.local
+.env.development
+.env.test
+*.log
+.pytest_cache
+.coverage
+htmlcov
+.DS_Store
+README.md
+test/
+*.sqlite
+*.db
