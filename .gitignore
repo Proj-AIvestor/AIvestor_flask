@@ -6,3 +6,5 @@ venv
 #important data
 .env
 *.txt
+
+test/
